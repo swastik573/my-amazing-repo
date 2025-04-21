@@ -2,3 +2,4 @@ Hello
 Line from main
 Line from feature
 Another feature line
+This is a new line from feature
